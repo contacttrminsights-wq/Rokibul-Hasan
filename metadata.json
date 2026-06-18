@@ -1,0 +1,6 @@
+{
+  "name": "Tracking",
+  "description": "A modern SaaS demo playground that demonstrates and simulates robust server-side attribution data from click to Stripe, Server GTM, Meta CAPI, and GA4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
